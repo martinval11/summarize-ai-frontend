@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "basier_square";
+  src: url("/basier_square/Basier Square Medium.otf");
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #fff;
+  color: #090909;
+  font-family: basier_square, Helvetica, sans-serif;
+  margin: 0 auto;
+  max-width: 700px;
+}
