@@ -100,3 +100,8 @@ form {
     transform: rotate(360deg);
   }
 }
+
+#error__container {
+  color: #f12424;
+  text-align: center ;
+}
